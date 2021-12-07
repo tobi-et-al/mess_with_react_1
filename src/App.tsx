@@ -52,6 +52,7 @@ export const DumbComponent = () => {
         </label>
       </div>
       <br />
+      <hr />
       <div
         className="mx-auto"
         style={{ overflowWrap: "break-word", width: "200px" }}
